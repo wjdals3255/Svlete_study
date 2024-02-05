@@ -1,6 +1,6 @@
 {
 	"name": "svelte-study",
-	"version": "0.0.1",
+	"version": "yarn",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -34,5 +34,10 @@
 		"vite": "^4.4.2",
 		"vitest": "^0.32.2"
 	},
-	"type": "module"
+	"type": "module",
+	"description": "yarn dev",
+	"main": "index.js",
+	"repository": "https://github.com/wjdals3255/Svlete_VOD.git",
+	"author": "jeongmin <wjdals3255@gmail.com>",
+	"license": "MIT"
 }
